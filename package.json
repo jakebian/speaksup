@@ -1,0 +1,7 @@
+{
+  "name": "ubc-speaks-up",
+  "version": "0.0.0",
+  "dependencies": {
+    "ghost": "^0.6.4"
+  }
+}

@@ -7,7 +7,6 @@
 var ghost = require('ghost');
 var path = require('path');
 
-
 /**
  * Config
  */

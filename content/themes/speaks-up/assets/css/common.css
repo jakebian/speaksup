@@ -138,7 +138,7 @@
 }
 
 
-.submit-prompt .submit-link {
+.submit-prompt a.submit-link {
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -o-transition: all 0.3s;
@@ -148,9 +148,23 @@
     cursor: pointer;
     background-color: #eee;
     margin: 0 20px;
+    text-decoration: none;
 }
 
 .submit-prompt .submit-link:hover {
     background-color: #002145;
     color: #fff;
+}
+
+.post-page {
+
+}
+
+.post-page .content {
+    max-width: 900px;
+    margin: auto;
+}
+
+.featherlight .featherlight-close-icon{
+    display: none;
 }

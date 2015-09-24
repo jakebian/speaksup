@@ -6,6 +6,8 @@
 {{! Everything inside the #post tags pulls data from the page }}
 {{#post}}
 
+<div class="post-page">
+
 <header class="main-header post-head {{#if image}}" style="background-image: url({{image}}){{else}}no-cover{{/if}}">
     <nav class="main-nav {{#if image}}overlay{{/if}} clearfix">
         {{#if @blog.logo}}<a class="blog-logo" href="{{@blog.url}}"><img src="{{@blog.logo}}" alt="{{@blog.title}}" /></a>{{/if}}
@@ -19,6 +21,9 @@
     <article class="{{post_class}}">
 
         <header class="post-header">
+            <div class="back-button">
+                <a href="/">Back to home</a>
+            </div>
             <h1 class="post-title">{{title}}</h1>
         </header>
 
@@ -29,3 +34,5 @@
     </article>
 </main>
 {{/post}}
+
+</div>

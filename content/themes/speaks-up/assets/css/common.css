@@ -102,6 +102,11 @@
     font-family: "Open Sans", sans-serif
 }
 
+.static-title, .video-position{
+    font-size: 0.7em;
+    font-family: "Open Sans", sans-serif
+}
+
 .static-title a {
     text-decoration: none;
     color: #fff;
@@ -109,6 +114,14 @@
 
 .video-thumb .video-title, .static-title{
     font-weight: bold;
+    position: absolute;
+    bottom:0;
+    z-index: 3;
+    color: #fff;
+    padding: 20px;
+}
+
+.video-thumb .video-position, .static-title{
     position: absolute;
     bottom:0;
     z-index: 3;

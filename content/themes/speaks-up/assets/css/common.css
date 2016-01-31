@@ -169,8 +169,12 @@
     display: none;
 }
 
-.video-container {
+.trailer {
     max-width: 900px;
+    margin: auto;
+    padding: 30px;
+}
+.video-container {
     margin: auto;
     position: relative;
     padding-bottom: 56.25%;

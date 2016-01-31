@@ -169,15 +169,8 @@
     display: none;
 }
 
-.trailer {
-    max-width: 900px;
-    margin: auto;
-    text-align: center;
-    padding: 20px;
-    font-family: "Open Sans", sans-serif;
-}
-
 .video-container {
+    max-width: 900px;
     margin: auto;
     position: relative;
     padding-bottom: 56.25%;

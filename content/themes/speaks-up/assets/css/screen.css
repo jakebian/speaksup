@@ -759,7 +759,7 @@ body.nav-opened .nav {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     display: block;
-    height: 105px;
+    height: 255px;
     padding: 1px 0 5px 0;
     width: auto;
 }
@@ -800,7 +800,7 @@ body.nav-opened .nav {
 /* social media icons */
 
 .social-logo {
-    display: block;
+    display: inline-block;
     float: right;
     padding: 5px;
     color: #fff;

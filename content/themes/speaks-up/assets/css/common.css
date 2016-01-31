@@ -170,8 +170,9 @@
 }
 
 .container {
+    margin: auto;
     position: relative;
-    width: 80%;
+    width: 70%;
     height: 0;
     padding-bottom: 56.25%;
 }

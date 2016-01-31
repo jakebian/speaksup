@@ -1528,7 +1528,7 @@ body:not(.post-template) .post-title {
     margin: 8rem 0 0 0;
     padding: 1rem 15px;
     font-family: "Open Sans", sans-serif;
-    font-size: 1rem;
+    font-size: 3rem;
     line-height: 1.75em;
     color: #BBC7CC;
 }

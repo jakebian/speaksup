@@ -667,17 +667,6 @@ body.nav-opened .nav {
     color: #fff;
 }
 
-.social-button {
-    position: absolute;
-    bottom: 30px;
-    left: 30px;
-    right: 30px;
-    height: 38px;
-    padding: 0 20px;
-    color: #111 !important; 
-    background: #fff;
-}
-
 .subscribe-button {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;

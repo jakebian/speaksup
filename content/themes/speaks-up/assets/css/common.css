@@ -172,7 +172,7 @@
 .trailer {
     max-width: 900px;
     margin: auto;
-    padding: 30px;
+    padding-bottom: 30px;
 }
 .video-container {
     margin: auto;

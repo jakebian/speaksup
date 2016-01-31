@@ -1737,7 +1737,7 @@ body:not(.post-template) .post-title {
     }
 
     .blog-logo img {
-        height: 30px;
+        height: 255px;
     }
 
     .menu-button {

@@ -1726,7 +1726,7 @@ body:not(.post-template) .post-title {
     }
 
     .blog-logo img {
-        width: 80vw;
+        width: 80px;
     }
 
     .menu-button {

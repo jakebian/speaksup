@@ -800,7 +800,6 @@ body.nav-opened .nav {
 /* social media icons */
 
 .social-logo {
-    display: inline-block;
     float: right;
     padding: 5px;
     color: #fff;

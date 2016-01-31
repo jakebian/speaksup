@@ -797,6 +797,17 @@ body.nav-opened .nav {
     outline: 0;
 }
 
+/* social media icons */
+
+.social-logo {
+    display: block;
+    float: right;
+    padding: 5px;
+    color: #fff;
+    background: none !important; /* Makes sure there is never a background */
+    border: none !important; /* Makes sure there is never a border */
+}
+
 /* When the navigation is closed */
 .nav-closed .menu-button {
     color: #fff;
